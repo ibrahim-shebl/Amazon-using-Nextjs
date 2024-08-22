@@ -1,5 +1,6 @@
 import { getProducts } from "@/helpers";
-import Product from "./product";
+import Product from "./Product";
+ 
 
 
 const Products = async () => {
